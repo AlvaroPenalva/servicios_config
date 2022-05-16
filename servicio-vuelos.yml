@@ -1,8 +1,6 @@
 server:
   port: 8200
 spring:
-  application:
-    name: servicio-vuelos
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: ''
